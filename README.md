@@ -46,6 +46,6 @@
 <br />
 <summary>:zap: GitHub Stats</summary>
 
-<img align="left" alt="Ben's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BensRepository&show_icons=true&hide_border=false&title_color=0000FFf&icon_color=0000FF&bg_color=09131B&text_color=ffffff&border_color=0000FF" />
+<img align="left" alt="Ben's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BensRepository&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 [website]: https://www.csgotools.co.uk
