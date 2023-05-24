@@ -1,4 +1,4 @@
-# Hello I'm Ben Hodges 👋 
+# Hello I'm Ben 👋 
 ## an avid programmer 
 
 [![Website](https://img.shields.io/website?label=www.csgotools.co.uk&style=for-the-badge&url=https%3A%2F%2Fcsgotools.co.uk)](https://www.csgotools.co.uk)
@@ -43,6 +43,10 @@
 <img align="left" alt="Java" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg" style="padding-right:10px;" />
 
 <img align="left" alt="Ruby" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/ruby/ruby-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="JypterNotebook" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jupyter/jupyter-original-wordmark.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Heroku" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/heroku/heroku-original-wordmark.svg" style="padding-right:10px;" />
 <br />
 <br />
 <summary>:zap: GitHub Stats</summary>
