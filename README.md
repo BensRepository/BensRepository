@@ -1,5 +1,4 @@
 # Hello I'm Ben 👋 
-## an avid programmer 
 
 [![Website](https://img.shields.io/website?label=www.csgotools.co.uk&style=for-the-badge&url=https%3A%2F%2Fcsgotools.co.uk)](https://www.csgotools.co.uk)
 
