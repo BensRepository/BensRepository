@@ -1,5 +1,5 @@
-# Hello I'm Ben, an avid programmer  👋 
-
+# Hello I'm Ben Hodges 👋 
+## an avid programmer 
 
 [![Website](https://img.shields.io/website?label=www.csgotools.co.uk&style=for-the-badge&url=https%3A%2F%2Fcsgotools.co.uk)](https://www.csgotools.co.uk)
 
@@ -9,7 +9,7 @@
 - 🔭 Dedicated to learning and experiencing everything I can
 - 🌱Currently working on adding more features to my [website][Website]
 - 🎓 Graduated from University of Surrey 
-- 🥅 2023 Goals: Get a job in CS/IT
+- 🥅 2023 Goals: Get a job in CS/IT - Develop and publish a game to Steam
 - 😄 Pronouns: He/Him/His
 
 ### Connect with me:
@@ -30,7 +30,6 @@
 
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 
-<img align="left" alt="Gatsby" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
@@ -42,6 +41,8 @@
 <img align="left" alt="AWS" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/amazonwebservices/amazonwebservices-original.svg" style="padding-right:10px;" />
 
 <img align="left" alt="Java" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Ruby" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/ruby/ruby-original.svg" style="padding-right:10px;" />
 <br />
 <br />
 <summary>:zap: GitHub Stats</summary>
