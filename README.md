@@ -1,6 +1,6 @@
 # Hello I'm Ben 👋 
 
-[![Website](https://img.shields.io/website?label=www.csgotools.co.uk&style=for-the-badge&url=https%3A%2F%2Fcsgotools.co.uk)](https://www.cstools.co.uk)
+[![Website](https://img.shields.io/website?label=www.cstools.co.uk&style=for-the-badge&url=https%3A%2F%2Fcsgotools.co.uk)](https://www.cstools.co.uk)
 
 
 ## About Me
