@@ -1,6 +1,6 @@
 # Hello I'm Ben 👋 
 
-[![Website](https://img.shields.io/website?label=www.csgotools.co.uk&style=for-the-badge&url=https%3A%2F%2Fcsgotools.co.uk)](https://www.csgotools.co.uk)
+[![Website](https://img.shields.io/website?label=www.csgotools.co.uk&style=for-the-badge&url=https%3A%2F%2Fcsgotools.co.uk)](https://www.cstools.co.uk)
 
 
 ## About Me
@@ -52,4 +52,4 @@
 
 <img align="left" alt="Ben's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BensRepository&show_icons=true&hide_border=false&title_color=00FFFF&icon_color=00FFFF&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
-[website]: https://www.csgotools.co.uk
+[website]: https://www.cstools.co.uk
