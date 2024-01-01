@@ -8,7 +8,7 @@
 - 🔭 Dedicated to learning and experiencing everything I can
 - 🌱Currently working on adding more features to my [website][Website]
 - 🎓 Graduated from University of Surrey 
-- 🥅 2023 Goals: Get a job in CS/IT - Develop and publish a game to Steam
+- 🥅 2024 Goals: Complete a research Paper - Develop and publish a game to Steam - Get an MS Qualification
 - 😄 Pronouns: He/Him/His
 
 ### Connect with me:
