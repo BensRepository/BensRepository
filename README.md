@@ -6,7 +6,7 @@
 ## About Me
 
 - 🔭 Dedicated to learning and experiencing everything I can
-- 🌱Currently working on adding more features to my [website][Website]
+- 🌱Currently adding more features to my websites and studying for IT Certifications
 - 🎓 Graduated from University of Surrey 
 - 🥅 2024 Goals: Complete a research Paper - Develop and publish a game to Steam - Get an MS Qualification
 - 😄 Pronouns: He/Him/His
