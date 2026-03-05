@@ -6,9 +6,8 @@
 ## About Me
 
 - 🔭 Dedicated to learning and experiencing everything I can
-- 🌱Currently adding more features to my websites and studying for IT Certifications
 - 🎓 Graduated from University of Surrey 
-- 🥅 2024 Goals: Complete a research Paper - Develop and publish a game to Steam - Get an MS Qualification
+- 🥅 2026 - Gain further qualifications and gain more experience in software development.
 - 😄 Pronouns: He/Him/His
 
 ### Connect with me:
