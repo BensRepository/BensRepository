@@ -10,13 +10,6 @@
 - 🥅 2026 - Gain further qualifications and gain more experience in software development.
 - 😄 Pronouns: He/Him/His
 
-### Connect with me:
-
-[![website](./images/linkedin-light.svg)](https://linkedin.com/in/thebenhodges#gh-light-mode-only)
-[![website](./images/linkedin-dark.svg)](https://linkedin.com/in/thebenhodges#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./images/instagram-light.svg)](https://instagram.com/thebenhodges#gh-light-mode-only)
-[![website](./images/instagram-dark.svg)](https://instagram.com/thebenhodges#gh-dark-mode-only)
 
 ### Languages and Tools:
 
@@ -47,8 +40,6 @@
 <img align="left" alt="Heroku" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/heroku/heroku-original-wordmark.svg" style="padding-right:10px;" />
 <br />
 <br />
-<summary>:zap: GitHub Stats</summary>
 
-<img align="left" alt="Ben's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BensRepository&show_icons=true&hide_border=false&title_color=00FFFF&icon_color=00FFFF&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 [website]: https://www.cstools.co.uk
